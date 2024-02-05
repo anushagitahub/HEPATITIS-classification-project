@@ -3,7 +3,7 @@ Completed this project as part of my Data Science and Machine Learning Course wi
 
 Key highlights:
 
-Studied and Analyzed the Credit Risk Prediction dataset to apply Machine Learning Models and present my insights.
+Studied and Analyzed the Hepatitis dataset to apply Machine Learning Models and present my insights.
 
 Performed various Exploratory Data Analyses to understand the data and compare the variables.
 
